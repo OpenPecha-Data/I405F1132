@@ -1,0 +1,36 @@
+id: I405F1132
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:22:37.156879'
+last_modified: '2022-06-19T14:22:37.156891'
+parser: null
+source_metadata:
+  title: Abbatial History of gSang phu sNeu thog Monastery
+  author: བྱམས་པ་ཀུན་དགའ་འབྱུང་གནས།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2012-12-18);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:འཇམ་དཔལ་དགའ་བ། (Dehradun) (jg)
+  - Editorial process:Mathias Fermer (mf), འཇམ་དཔལ་དགའ་བ། (jg)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:འཇམ་དཔལ་དགའ་བ། (jg)
+  text_witnesses: https://sakyaresearch.org/sources/36
+  bases:
+    22f5:
+      title: Abbatial History of gSang phu sNeu thog Monastery
+      order: 1
+      base_file: 22f5.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
